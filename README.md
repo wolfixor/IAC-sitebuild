@@ -1,4 +1,4 @@
-## implement full structure site-builder base on arvancloud provider
+## implement full infrastructure as code site-builder base on arvancloud provider
 ```
 ├── apps/                    # Application manifests
 │   ├── dashboard/          # Dashboard application
